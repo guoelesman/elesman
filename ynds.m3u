@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="都市频道(备用)",云南都市
 http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8|Referer="http://www.yntv.cn/"
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="都市频道(备用)",云南都市
-http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8|Referer="http://hwapi.yunshicloud.com/"
+http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="都市频道(备用)",云南都市
 http://192.168.100.114:5678/ynds.php?id=ynds
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="都市频道(备用)",云南都市
@@ -17,7 +17,7 @@ http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8|Referer="https://www.yn
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="常用频道",云南都市 540
 http://192.168.100.114:5678/ynds.php?id=ynds
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="常用频道",云南都市1080
-http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+http://220.163.178.144:8888/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="常用频道",云南都市 720
 http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8|Referer="http://hwapi.yunshicloud.com/"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV1 4K
