@@ -103,4 +103,4 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3
 #EXTINF:-1 tvg-id="湖南卫视 " tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="常用频道",湖南卫视 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV1
-http://192.168.100.114:5678/ysp-api.php?/PLTV/&
+http://192.168.100.114:5678/ysp.php?id=cctv4k_36m
