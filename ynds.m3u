@@ -53,7 +53,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="常用频道",CCTV8K
 http://192.168.100.114:5678/xx8k50fps.php
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="常用频道",CCTV8K
-http://192.168.100.114:5678/cctv8k1
+http://192.168.100.114:5678/cctv8k1.php
 #EXTINF:-1 tvg-name="BTV纪实科教-8K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="常用频道",BTV纪实科教-8K
 http://192.168.100.114:5678/brtv8k.php?id=brtv8k
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="常用频道",江苏8K测试
