@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="都市频道(备用)",云南都市
 http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8|Referer="http://www.yntv.cn/"
