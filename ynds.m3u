@@ -19,7 +19,7 @@ http://192.168.100.114:5678/ynds.php?id=ynds
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="常用频道",云南都市1080
 http://119.62.35.24:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="常用频道",云南都市 720
-http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8|Referer="http://hwapi.yunshicloud.com/"
+http://220.164.192.48:50085/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV1 4K
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV1
@@ -49,7 +49,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://epg.112114.xyz/logo/CCTV13.png" group-title="常用频道",CCTV13
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="常用频道",云南4K
-http://106.57.0.58:55555/udp/239.200.200.178:8884
+http://106.57.1.57:55555/udp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="常用频道",CCTV8K
 http://192.168.100.114:5678/xx8k50fps.php
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="常用频道",CCTV8K
@@ -103,4 +103,4 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3
 #EXTINF:-1 tvg-id="湖南卫视 " tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="常用频道",湖南卫视 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV1
-http://8.134.211.236:13556/china/cctv.php?id=cctv1
+http://192.168.100.114:5678/dgysp.php?id=cctv1
