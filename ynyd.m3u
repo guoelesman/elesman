@@ -200,9 +200,6 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225817/index.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="云南广电",云南少儿
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225867/index.m3u8
 
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="云南广电",云南少儿
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225867/index.m3u8
-
 #EXTINF:-1 tvg-name="云南生活资讯" tvg-logo="https://live.fanmingming.com/tv/云南生活资讯.png" group-title="云南广电",云南生活资讯
 http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD/?m3u8_level=2
 
