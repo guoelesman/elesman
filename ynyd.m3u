@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="4K修复UD" tvg-logo="https://live.fanmingming.com/tv/4K修复UD.png",4K修复UD
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-name="4K修复UD" tvg-logo="https://live.fanmingming.com/tv/4K修复UD.png",4K修复UD
