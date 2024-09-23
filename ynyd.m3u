@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://39.130.214.136/wh7f454c46tw1458693669_-1393109235/hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/index.m3u8
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225833/index.m3u8
